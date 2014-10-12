@@ -1,0 +1,10 @@
+dummy1 10 100
+dummy2 10 90
+dummy3 10 80
+dummy4 10 70
+dummy5 10 60
+dummy6 10 50
+dummy7 10 40
+dummy8 10 30
+dummy9 10 20
+dummy10 10 10
